@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RestApiModeloDDD.Domain.Entities;
+using RestApiModeloDDD.Infrastructure.Data.Mapping;
 using System;
 using System.Linq;
 using System.Reflection;
@@ -17,7 +18,13 @@ namespace RestApiModeloDDD.Infrastructure.Data
         {
 
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
 
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Cliente>(new ClienteMap().Configure);
+            modelBuilder.Entity<Produto>(new ProdutoMap().Configure);
+        }
         public DbSet<Cliente> clientes { set; get; }
         public DbSet<Produto> produtos { get; set; }
 
