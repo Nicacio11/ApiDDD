@@ -1,0 +1,12 @@
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net5.0\RestApiModeloDDD.Application.deps.json
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net5.0\RestApiModeloDDD.Application.dll
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net5.0\ref\RestApiModeloDDD.Application.dll
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\bin\Debug\net5.0\RestApiModeloDDD.Application.pdb
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.dll
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\ref\RestApiModeloDDD.Application.dll
+C:\Users\Vitor\source\repos\RestApiModeloDDD\RestApiModeloDDD.Application\obj\Debug\net5.0\RestApiModeloDDD.Application.pdb
